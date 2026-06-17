@@ -1,0 +1,22 @@
+{
+  "name": "ololand-cowork",
+  "owner": {
+    "name": "Aleks (ololand.ai)",
+    "url": "https://ololand.ai"
+  },
+  "metadata": {
+    "description": "Cowork / Claude Code plugins by ololand.ai"
+  },
+  "plugins": [
+    {
+      "name": "career-copilot",
+      "source": "./career-copilot",
+      "description": "A self-learning job-search agent: researches companies and roles, maps warm referral paths, tailors your resume to each JD, drafts applications and outreach, and improves from outcomes over time.",
+      "version": "0.2.0",
+      "author": {
+        "name": "Aleks (ololand.ai)"
+      },
+      "keywords": ["job-search", "career", "referrals", "resume", "interview", "agentic"]
+    }
+  ]
+}

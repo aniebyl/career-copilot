@@ -1,0 +1,19 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Node / build
+node_modules/
+*.log
+
+# Secrets / env
+.env
+.env.*
+*.local
+
+# Runtime job-search data (never publish personal pipeline data)
+Career Copilot/
+pipeline/
