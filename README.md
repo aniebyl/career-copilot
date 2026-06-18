@@ -2,7 +2,7 @@
 
 A Claude Code / Claude Cowork plugin marketplace by [ololand.ai](https://ololand.ai).
 
-## career-copilot (v0.2.0)
+## career-copilot (v0.2.1)
 
 A self-learning, profile-driven job-search agent — scouts and scores roles, researches companies,
 tailors your resume to each JD (truthfully), maps warm referral paths, drafts applications and

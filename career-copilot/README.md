@@ -6,7 +6,7 @@ each job, maps warm referral paths, drafts applications and outreach, preps inte
 negotiate offers, and gets smarter from your outcomes. Everything is truthful, and nothing is
 sent without you: it drafts, you send.
 
-Built as a Claude Cowork / Claude Code plugin. **v0.2.0.**
+Built as a Claude Cowork / Claude Code plugin. **v0.2.1.**
 
 ## The mental model: an agentic loop
 
